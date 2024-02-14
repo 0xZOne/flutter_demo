@@ -47,32 +47,40 @@ class SecondRoute extends StatelessWidget {
             new Spacer(),
             Text(
               "100 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w100),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w100, fontFamily: 'PingFang SC'),
             ),
             Text(
               "200 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w200),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w200, fontFamily: 'PingFang SC'),
             ),
             Text(
               "300 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w300),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w300, fontFamily: 'PingFang SC'),
             ),
             Text(
               "400 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w400),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w400, fontFamily: 'PingFang SC'),
             ),
             Text(
               "500 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w500),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w500, fontFamily: 'PingFang SC'),
             ),
             Text(
               "600 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w600),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w600, fontFamily: 'PingFang SC'),
             ),
             Text(
               "700 中文 A",
-              style: TextStyle(fontSize: 60, fontWeight: FontWeight.w700),
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w700, fontFamily: 'PingFang SC'),
             ),
+            Text(
+              "800 中文 A",
+              style: TextStyle(fontSize: 55, fontWeight: FontWeight.w800, fontFamily: 'PingFang SC'),
+            ),
+            // Text(
+            //   "900 中文 A",
+            //   style: TextStyle(fontSize: 55, fontWeight: FontWeight.w900, fontFamily: 'PingFang SC'),
+            // ),
             new Spacer(),
           ],
         ),
