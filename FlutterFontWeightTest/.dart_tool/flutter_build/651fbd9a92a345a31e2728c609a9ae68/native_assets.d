@@ -1,0 +1,1 @@
+ /Users/zero/Dev/demo/FlutterFontWeightTest/.dart_tool/flutter_build/651fbd9a92a345a31e2728c609a9ae68/native_assets.yaml: 
