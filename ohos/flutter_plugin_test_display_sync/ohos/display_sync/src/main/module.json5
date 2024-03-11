@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "display_sync",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
